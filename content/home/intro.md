@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+I'm **Krushang Vaghasia**. You may call me Krushang or Kroo-sheng or Kroo-shaang or anything that you believe will do justice to the name as it is spelled.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Below are some very poorly-written meaningless notes, confessions and thoughts. 
