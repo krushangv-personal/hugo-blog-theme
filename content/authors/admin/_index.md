@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Krushang Vaghasia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Person
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
-    url: ''
+  - name: Who cares where I work?
+    url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Uninteresting guy with uninteresting thoughts.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:krushangv@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/KrushangVa
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/vaghasiakrushang
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,6 +66,4 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Will add description when I feel like it. 
