@@ -1,5 +1,5 @@
 ---
-title: The waiting game
+title: The Waiting Game
 date: 2023-02-28T21:13:25.325Z
 draft: false
 featured: false
@@ -16,6 +16,6 @@ Going forward, I do not see any other path but to refile the petition and wait a
 
 On the home-buying front, a wire didn't go through and we now have to delay the closing date. We will wait for smaller wires to go through and turn in the final documentation.
 
-It is very hard to encounter any wins nowadays. Bad news and disappointments are piling up. I wake up with disappointing news and go to bed hoping to wake up with better news. Clouds and gloomy weather all around.\*\*
+It is very hard to encounter any wins nowadays. Bad news and disappointments are piling up. I wake up with disappointing news and go to bed hoping to wake up with better news. Clouds and gloomy weather all around.
 
 The tennis evaluation session I took last Saturday rated me at a 3.5, which is higher than the 3.0 I was expecting. But this win is hardly enough to counter one day of disappointments.
