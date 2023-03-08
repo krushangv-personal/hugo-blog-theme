@@ -1,5 +1,5 @@
 ---
-title: Salt Lake City Trip
+title: Work Trip
 date: 2023-02-22T20:03:29.902Z
 draft: false
 featured: false
