@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Krushang Vaghasia
+title: Kevin Costa (alias)
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,15 +42,15 @@ bio: Uninteresting guy with uninteresting thoughts.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:krushangv@gmail.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/KrushangVa
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/vaghasiakrushang
+   # - icon: envelope
+   # icon_pack: fas
+   # link: 'mailto:krushangv@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  # - icon: twitter
+   # icon_pack: fab
+   # link: https://twitter.com/KrushangVa
+  # - icon: instagram
+   # icon_pack: fab
+   #  link: https://instagram.com/vaghasiakrushang
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
