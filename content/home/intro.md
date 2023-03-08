@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-I'm **Krushang Vaghasia**. You may call me Krushang or Kroo-sheng or Kroo-shaang or whatever that you think will do justice to the name as it is spelled.
+I'm **Kevin Costa**. You may call me Kevin.
 
 Below are some poorly-written, meaningless notes, confessions and thoughts. 
