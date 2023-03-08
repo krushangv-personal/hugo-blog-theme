@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Krushang's Blog # Website name
-baseURL: 'https://krushangvaghasia.com/' # Website URL
+title: Kevin's Blog # Website name
+baseURL: 'https://kevincosta.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
